@@ -37,17 +37,6 @@ Apaixonado por boas práticas, performance e sistemas que realmente funcionam.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloCaetanoDev&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCaetanoDev&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulovictorcaetano-dev-backend/)
